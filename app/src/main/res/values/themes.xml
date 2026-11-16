@@ -6,6 +6,7 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:backgroundDimEnabled">false</item>
         <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowShowWallpaper">true</item>
     </style>
 
     <style name="Theme.Flint.Dialog" parent="Theme.Flint">
