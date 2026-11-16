@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Flint spark: two-prong flint strike glyph, centered in 108dp adaptive canvas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- flint core -->
+    <path
+        android:fillColor="#E8C56A"
+        android:pathData="M54,38 L64,54 L54,70 L44,54 Z" />
+    <!-- sparks -->
+    <path
+        android:strokeColor="#E8C56A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M70,34 L78,26 M74,48 L84,48" />
+</vector>
